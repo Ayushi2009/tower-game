@@ -10,7 +10,7 @@ var polygon;
 var slingShot;
 var polygon_img;
 function preload(){
-  hexagonImg=loadImage("untitled.png")
+  hexagonImg=loadImage("Untitled.png")
  
 }
 function setup() {
